@@ -1,0 +1,11 @@
+# Noyau de l'interface
+streamlit==1.32.0
+
+# Vision & IA (headless est plus léger pour Docker)
+opencv-python-headless
+ultralytics
+
+# Traitement de données & Graphiques
+numpy<2.0.0
+pandas
+matplotlib
